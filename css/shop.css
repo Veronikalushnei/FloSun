@@ -1,0 +1,55 @@
+.title{
+     text-align: center;
+     margin-top: 50px;
+}
+
+.shop-flex{
+    display: flex;
+margin-left: 80px;
+    margin-top: 60px;
+}
+
+.shop-flower{
+ margin-right: 200px;
+}
+
+.shop-name{
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+    margin: 0;
+    margin-bottom: 8px;
+    justify-content: center;
+}
+
+.shop-name:hover{
+    color: #E72463;
+
+}
+
+.price{
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 600;
+    color: #484848;
+    margin-right: 15px;
+    margin-left: 20px;
+}
+
+.price:hover{
+    color: black;
+}
+
+.old-price{
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 400;
+    color: #b4b4b4;
+    text-decoration: line-through;
+}
+
+.price-flex{
+    display: flex;
+
+}

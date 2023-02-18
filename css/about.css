@@ -1,0 +1,56 @@
+.h3-title{    
+    font-family: "Great Vibes",cursive;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 34px;
+    color: #E72463;
+    letter-spacing: 3px;
+    margin-top: 0;
+    margin-bottom: 10px;
+
+}
+
+.h3-subtitle{
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #000;
+    margin-top: 0;
+}
+
+.about-text{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(72, 72, 72);
+    margin-top: 0;
+    margin-bottom: 20px;
+    width: 565px;
+
+}
+
+.section-btn{
+    width: 220px;   
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    background-color: #000;
+}
+
+.section-btn:hover{
+    background-color: #E72463;
+}
+
+.about-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-img{
+ display: block;
+}

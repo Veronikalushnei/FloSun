@@ -1,0 +1,44 @@
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+h1{
+    font-family: "Great Vibes";
+    font-size: 190px;
+    line-height: 150px;
+    font-weight: 400;
+    color: #E72463;
+    margin-bottom: 60px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 19px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 8px;
+    margin: 0 auto;
+    
+}
+
+.container{
+   /*outline: 1px solid red;*/
+    width: 1200px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
